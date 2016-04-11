@@ -2,9 +2,8 @@
 
 Personal branding is marketing yourself and career as a brand. Even if you never made a concentrated effort to “create” your brand, you still have one. Here’s how to see it:
 
-1. Google your full name (in quotes) + the town and state you grew up in 
-
-2. Most likely your Facebook, Twitter, or LinkedIn profile appears in the results (if not, try the city + state you live in now)
+- Google your full name (in quotes) + the town and state you grew up in 
+- Most likely your Facebook, Twitter, or LinkedIn profile appears in the results (if not, try the city + state you live in now)
 
 
 Here’s the reality: recruiters and hiring managers are Googling your name. And this is what they’re seeing. The goal of this unit is to get you thinking of yourself as a brand and understand the ways you can build and establish your personal brand through online channels.
@@ -71,7 +70,6 @@ As part of answering this question, take an audit of your current personal brand
 **Submit** your assignment to careerprep@flatironschool.com. In the subject line, always write your name and the assignment title. In this case, ""Your Name" + Your Existing Personal Brand"
 
 In the body, include:
-
 >Your Name
 
 >Assignment Title
