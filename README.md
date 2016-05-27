@@ -59,25 +59,8 @@ Your personal brand matters because it’s what employers consider when reviewin
 
 In upcoming lessons, we'll cover three effective ways to build your brand as a developer: LinkedIn, Twitter, and blogging.
 
-## Assignment- Your Existing Personal Brand
+## Assignment
 
-Create a new Google Doc. Remember to title it ""Your Name" + Your Existing Personal Brand." In this document, address the following question.
-
-1. What steps do you plan to take to build your brand?  
-
-As part of answering this question, take an audit of your current personal brand.  Start by googling your full name + current city, and gather the information that appears you on the first few search result pages. Think about whether you're satisfied with this, and the specific steps you want to take to improve on it. 
-
-**Email** your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments. 
-In the subject line, always write your name and the assignment title. In this case, ""Your Name" + Your Existing Personal Brand"
-
-In the body, include:
->Your Name
-
->Assignment Title
-
->Your City, State
-
->Url link to this specific google doc
-
+Following your first meeting with your coach, your coach will send you an online presence self-assessment. 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-personal-brand-building'>careers personal brand building</a> on Learn.co and start learning to code for free.</p>
