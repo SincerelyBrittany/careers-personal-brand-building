@@ -61,6 +61,6 @@ In upcoming lessons, we'll cover three effective ways to build your brand as a d
 
 ## Assignment
 
-Following your first meeting with your coach, your coach will send you an online presence self-assessment. 
+Following your first meeting with your coach, your coach will send you an online presence self-assessment so you can work together to ensure your personal brand positions you well for your first dev job. 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-personal-brand-building'>careers personal brand building</a> on Learn.co and start learning to code for free.</p>
