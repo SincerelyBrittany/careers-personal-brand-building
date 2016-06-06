@@ -37,7 +37,7 @@ This is not true. There are many ways you can add value to the developer communi
 
 These are just two ways you can get involved without being an “expert”. 
 
-While being an expert is not a prerequisite for taking part in conversations and ultimately building your brand, what does matter is recognizing how to use each channel effectively. Every platform has its own etiquette—which we’ll get dive into in the upcoming lessons.  
+While being an expert is not a prerequisite for taking part in conversations and ultimately building your brand, what does matter is recognizing how to use each channel effectively. Every platform has its own etiquette—which we’ll dive into in the upcoming lessons.  
 
 However, an important component across all platforms is consistency.
 
@@ -64,3 +64,5 @@ In upcoming lessons, we'll cover three effective ways to build your brand as a d
 Following your first meeting with your coach, your coach will send you an online presence self-assessment so you can work together to ensure your personal brand positions you well for your first dev job. 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-personal-brand-building'>careers personal brand building</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/careers-personal-brand-building'>Personal Brand Building</a> on Learn.co and start learning to code for free.</p>
