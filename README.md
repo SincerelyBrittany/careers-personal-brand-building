@@ -59,10 +59,8 @@ Your personal brand matters because it’s what employers consider when reviewin
 
 In upcoming lessons, we'll cover three effective ways to build your brand as a developer: LinkedIn, Twitter, and blogging.
 
-## Assignment
+## If You Have a Premium Account: Assignment
 
 Following your first meeting with your coach, your coach will send you an online presence self-assessment so you can work together to ensure your personal brand positions you well for your first dev job. 
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-personal-brand-building'>careers personal brand building</a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/careers-personal-brand-building'>Personal Brand Building</a> on Learn.co and start learning to code for free.</p>
