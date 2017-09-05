@@ -57,6 +57,6 @@ However, if you’d like to try a new platform to see if you like it, start by m
 
 Your personal brand matters because it’s what employers consider when reviewing your application. They may take it into account before inviting you in for an interview, as well as later when deciding if you should be made an offer.
 
-In upcoming lessons, we'll cover three effective ways to build your brand as a developer: LinkedIn, Twitter, and blogging.
+In upcoming lessons, we'll cover four effective ways to build your brand as a developer: GitHub, LinkedIn, Twitter, and blogging.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/careers-personal-brand-building'>Personal Brand Building</a> on Learn.co and start learning to code for free.</p>
