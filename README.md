@@ -22,18 +22,20 @@ Here are specific ways you can curate your personal brand:
 
 1. Creating an online portfolio/personal site
 2. Social media presence (namely LinkedIn and Twitter)
-3. Starting a blog
-4. Speaking at meetups/events
+3. Consistently building new projects and committing on GitHub
+4. Starting and keeping a consistent blog
+5. Speaking at meetups/events
+
 
 Even your email address and business cards say something about your brand.
 
-More than a refined digital footprint (e.g. completed LinkedIn profile, personal website), the goal is to establish yourself as a contributor to the community. This means you’re sharing thoughts, ideas, and helping your peers. Many of the ways above—especially social media, blogging, and speaking—allow you to contribute to the community. 
+More than a refined digital footprint (e.g. completed LinkedIn profile, personal website, GitHub, blog), the goal is to establish yourself as a contributor to the community. This means you’re sharing thoughts, ideas, and helping your peers. Many of the ways above—especially social media, blogging, and speaking—allow you to contribute to the community.
 
 ## Myth: You Need to Be an Expert
 
 Many avoid sharing on social media, blogging, or speaking at events, because they believe they have nothing to add to the conversation.
 
-This is not true. There are many ways you can add value to the developer community, even as a beginner. For instance, you can do an experiment, or build an app, and document your results. This way others can learn from your mistakes and realizations. Another way you can add value to the community is by curating industry news, events, etc. 
+*This is not true.* There are many ways you can add value to the developer community, even as a beginner. For instance, you can do an experiment, or build an app, and document your results. This way others can learn from your mistakes and realizations. Another way you can add value to the community is by curating industry news, events, etc., on your LinkedIn profile, blog, or Twitter. 
 
 These are just two ways you can get involved without being an “expert”. 
 
@@ -45,13 +47,20 @@ However, an important component across all platforms is consistency.
 
 Despite not needing to be an expert to start building a personal brand as a developer, you should be consistent across all channels.
 
-Inactive, but searchable social media platforms *may* hurt your brand. For example, an inactive Twitter handle with a few Tweets dating back to 2010, will probably hurt more than help you. It indicates that you start things, but don’t commit to them. 
+Inactive, but searchable social media platforms may hurt your brand. For example, an inactive Twitter handle with a few Tweets dating back to 2010, will probably hurt more than help you. It indicates that you start things, but don’t commit to them. Changing your privacy settings, or deleting the account, can have a positive impact. 
 
-Another common misstep people make is having more than one LinkedIn profile. For yourself, you should only have **one** LinkedIn profile. If an employer sees that you have multiple accounts, it may come across as being out of touch, or unable to use social media/the internet. Luckily, LinkedIn has ways you can merge duplicate accounts. [Continue here] (https://www.linkedin.com/help/linkedin/answer/1275?lang=en) to learn how you can go about it. 
+Another common misstep people make is having more than one LinkedIn profile. For yourself, you should only have **one** LinkedIn profile. If an employer sees that you have multiple accounts, it may come across as being out of touch, or unable to use social media/the internet. Luckily, LinkedIn has ways you can merge duplicate accounts.  [Read here](https://www.linkedin.com/help/linkedin/answer/1275?lang=en) to learn how you can go about it. 
 
-Many people make the mistake of signing up for every social media platform out there. But then only sticking to a few, while leaving the others to collect internet dust. In reality, quality is more important than quantity. Instead of signing up for every social media site, stick to 1-3. And do them well.
+Many people make the mistake of signing up for every social media platform out there, but then only sticking to a few, while leaving the others to collect Internet dust. In reality, quality is more important than quantity. Instead of signing up for every social media site, stick to 1-3. And do them well.
 
-However, if you’d like to try a new platform to see if you like it, start by making your account private. This is an option for most, if not all, popular social media networks. This way you can test the waters without coming across as inactive. 
+However, if you’d like to try a new platform to see if you like it, start by making your account private. This is an option for most, if not all, popular social media networks. This way you can test the waters without coming across as inactive.
+
+## Maintain a Professional Image (at all times)
+
+People will be looking you up, looking into your background, and generally paying attention to your professional presence while you’re job-seeking. It’s important to maintain a professional image! Do your best to stay out of trouble: Don’t get arrested. Don’t tweet a string of profanities on your public Twitter. And remember that drug testing is a viable possibility as you are considered for a position at companies of all sizes.
+
+:)
+
 
 ## Up Next: Effective Ways to Build Your Brand 
 
