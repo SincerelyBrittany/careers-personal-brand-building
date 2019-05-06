@@ -22,20 +22,20 @@ Here are specific ways you can curate your personal brand:
 
 1. Creating an online portfolio/personal site
 2. Social media presence (namely LinkedIn and Twitter)
-3. Consistently building new projects and committing on GitHub
+3. Consistently building new projects
 4. Starting and keeping a consistent blog
 5. Speaking at meetups/events
 
 
 Even your email address and business cards say something about your brand.
 
-More than a refined digital footprint (e.g. completed LinkedIn profile, personal website, GitHub, blog), the goal is to establish yourself as a contributor to the community. This means you’re sharing thoughts, ideas, and helping your peers. Many of the ways above—especially social media, blogging, and speaking—allow you to contribute to the community.
+More than a refined digital footprint (e.g. completed LinkedIn profile, personal website, blog), the goal is to establish yourself as a contributor to the community. This means you’re sharing thoughts, ideas, and helping your peers. Many of the ways above—especially social media, blogging, and speaking—allow you to contribute to the community.
 
 ## Myth: You Need to Be an Expert
 
 Many avoid sharing on social media, blogging, or speaking at events, because they believe they have nothing to add to the conversation.
 
-*This is not true.* There are many ways you can add value to the developer community, even as a beginner. For instance, you can do an experiment, or build an app, and document your results. This way others can learn from your mistakes and realizations. Another way you can add value to the community is by curating industry news, events, etc., on your LinkedIn profile, blog, or Twitter. 
+*This is not true.* There are many ways you can add value to your professional community, even as a beginner. For instance, you can do an experiment, or build a project, and document your results. This way others can learn from your mistakes and realizations. Another way you can add value to the community is by curating industry news, events, etc., on your LinkedIn profile, blog, or Twitter. 
 
 These are just two ways you can get involved without being an “expert”. 
 
@@ -66,6 +66,4 @@ People will be looking you up, looking into your background, and generally payin
 
 Your personal brand matters because it’s what employers consider when reviewing your application. They may take it into account before inviting you in for an interview, as well as later when deciding if you should be made an offer.
 
-In upcoming lessons, we'll cover four effective ways to build your brand as a developer: GitHub, LinkedIn, Twitter, and blogging.
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/careers-personal-brand-building'>Personal Brand Building</a> on Learn.co and start learning to code for free.</p>
+In upcoming lessons, we'll cover effective ways to build your brand.
