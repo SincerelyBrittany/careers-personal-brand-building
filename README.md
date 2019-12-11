@@ -12,7 +12,7 @@ Here’s the reality: recruiters and hiring managers are Googling your name. And
 
 For starters, taking control of your personal brand allows you to shape the conversation.
 
-More than that, it helps you build credibility. When an employer Googles your name and *nothing* appears - it raises eyebrows. On the other hand, have a personal brand validates your existence and shows that you can be trusted. 
+More than that, it helps you build credibility. When an employer Googles your name and *nothing* appears - it raises eyebrows. On the other hand, having a personal brand validates your existence and shows that you can be trusted. 
 
 When applying for jobs, a personal brand can also distinguish you from the competition. And ultimately it may be a factor that can help you land better opportunities.  
 
